@@ -1,7 +1,7 @@
 # chess_board
 
 A new Flutter project.
-
+![](chess_board.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
